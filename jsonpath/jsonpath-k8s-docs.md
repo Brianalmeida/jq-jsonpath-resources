@@ -1,0 +1,2 @@
+- [JSONPath support](https://kubernetes.io/docs/reference/kubectl/jsonpath/)
+- [k8s cheat sheen JSONPath](https://kubernetes.io/docs/reference/kubectl/cheatsheet/#kubectl-context-and-configuration)
