@@ -4,5 +4,6 @@
 
 # K8s metrics 
 > kubectl get --raw /apis/metrics.k8s.io/v1beta1/pods/
+>
 > kubectl get --raw /apis/
 - https://www.datadoghq.com/blog/how-to-collect-and-graph-kubernetes-metrics/
